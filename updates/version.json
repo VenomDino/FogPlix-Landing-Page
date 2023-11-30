@@ -1,8 +1,8 @@
 {
-"version-name": "5.0",
-"version-code": "40",
+"version-name": "5.1",
+"version-code": "41",
 "force-update": "yes",
-"changes-log": "- Bugs fixed.\nAndroid TV supported.",
+"changes-log": "- Bugs fixed.\n- Fixed play servers.",
 "download-link": "https://fogplix.com",
-"direct-download-link": "https://fogplix.com/apk/fogplix_v5.0.apk"
+"direct-download-link": "https://fogplix.com/apk/fogplix_v5.1.apk"
 }
