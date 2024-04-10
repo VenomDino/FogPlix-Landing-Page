@@ -1,8 +1,8 @@
 {
-"version-name": "5.5",
-"version-code": "45",
-"force-update": "yes",
+"version-name": "5.6",
+"version-code": "46",
+"force-update": "no",
 "changes-log": "- Bugs fixed.\n- Optimized.",
-"download-link": "https://app.foganime.com",
-"direct-download-link": "https://app.foganime.com/apk/Fogplix-Anime_v5.5.apk"
+"download-link": "https://fogplix-anime.com",
+"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v5.6.apk"
 }
