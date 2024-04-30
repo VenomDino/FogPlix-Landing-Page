@@ -1,8 +1,8 @@
 {
-"version-name": "5.6",
-"version-code": "46",
-"force-update": "no",
-"changes-log": "- Bugs fixed.\n- Optimized.",
+"version-name": "5.7",
+"version-code": "47",
+"force-update": "yes",
+"changes-log": "Now you can use Fogplix Anime via proxy if your ISP blocked our server.",
 "download-link": "https://fogplix-anime.com",
-"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v5.6.apk"
+"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v5.7.apk"
 }
