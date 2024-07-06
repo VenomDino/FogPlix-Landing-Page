@@ -1,8 +1,8 @@
 {
-"version-name": "5.9",
-"version-code": "49",
+"version-name": "6.0",
+"version-code": "50",
 "force-update": "yes",
-"changes-log": "Fixed server 1.",
+"changes-log": "Fixed server 1.\nRemoved 30s ad",
 "download-link": "https://fogplix-anime.com",
-"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v5.9.apk"
+"direct-download-link": "https://fogplix-anime.com/apk/Fogplix-Anime_v6.0.apk"
 }
