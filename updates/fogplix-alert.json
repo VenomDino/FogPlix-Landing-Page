@@ -1,5 +1,5 @@
 {
-  "shouldShow" : true,
+  "shouldShow" : false,
   "message": "Our proxy server has been crashed. That's why proxy is not working. Please disable proxy from settings then download any vpn and start it then open Fogplix Anime. If Fogplix is working without any vpn and proxy then you don't need any additional steps.",
   "maxVersionCode": 55
 }
